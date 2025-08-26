@@ -106,16 +106,16 @@ timeline: "2024-2025"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praneeth-jayesha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth-jayesha&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praneeth-Jayesha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneeth-Jayesha&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth-jayesha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneeth-Jayesha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praneeth-jayesha&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Praneeth-Jayesha&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -160,7 +160,7 @@ timeline: "2024-2025"
 ![Spotify](https://novatorem-psi-three.vercel.app/api/spotify)
 
 ### 🏆 Achievement Unlocked
-![Profile views](https://komarev.com/ghpvc/?username=praneeth-jayesha&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Praneeth-Jayesha&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 
 </div>
 
